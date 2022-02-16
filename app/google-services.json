@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699166314495",
+    "project_id": "learning-square-c59ec",
+    "storage_bucket": "learning-square-c59ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699166314495:android:69704cd46cb87a741421ca",
+        "android_client_info": {
+          "package_name": "com.example.learningsquare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699166314495-8dfnir1ildmm46n8iao18c769v5uad0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3BmrgP_-uvEbnBKhi9PYhvJq7k2ymtwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699166314495-8dfnir1ildmm46n8iao18c769v5uad0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

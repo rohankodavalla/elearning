@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <EditText
+        android:id="@+id/edittext_discription1"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:hint="@string/description"></EditText>
+    <EditText
+        android:id="@+id/edittext_question1"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+    android:hint="@string/question_1"></EditText>
+    <EditText
+        android:id="@+id/edittext_answer1"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:hint="@string/answer_1"></EditText>
+    <EditText
+        android:id="@+id/edittext_question2"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:hint="@string/question_2"></EditText>
+    <EditText
+        android:id="@+id/edittext_answer2"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:hint="@string/answer_2"></EditText>
+    <EditText
+        android:id="@+id/edittext_question3"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:hint="@string/question_3"></EditText>
+    <EditText
+        android:id="@+id/edittext_answer3"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:hint="Answer 3"></EditText>
+    <EditText
+        android:id="@+id/edittext_question4"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:hint="Question 4"></EditText>
+    <EditText
+        android:id="@+id/edittext_answer4"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:hint="Answer 4"></EditText>
+
+</LinearLayout>
